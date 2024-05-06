@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #F55A5A;
+    color: white;
+    font-weight: 500;
+    font-size: 14.46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+
+.navbar img{
+    margin: 16px 7px;
+}
